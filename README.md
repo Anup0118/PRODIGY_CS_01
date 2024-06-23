@@ -3,6 +3,6 @@ The method involves shifting each letter in the plaintext by a fixed number of p
 
 How It Works :
 
-  Encryption: Each letter in the plaintext is shifted by a specified number of positions. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on.
+  1. Encryption: Each letter in the plaintext is shifted by a specified number of positions. For example, with a shift of 3, 'A' becomes 'D', 'B' becomes 'E', and so on.
   
-  Decryption: The process of reverting the shifted characters back to their original positions using the same shift value.
+  2. Decryption: The process of reverting the shifted characters back to their original positions using the same shift value.
